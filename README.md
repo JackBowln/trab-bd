@@ -1,4 +1,4 @@
-# trab-bd
+# trab-bd-CC1M
 
 Nome dos integrantes: Vinicius Viola Dias, Gabriel de Lemos Gomes, Marcelo de Castro Sant'Anna Filho, Caio Schmidt França Fonseca e Henrique Moro Maciel
 
