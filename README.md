@@ -9,14 +9,14 @@ e Henrique Moro Maciel
 
 ***Cenário:***
 
-O cenário a ser descrito para o banco de dados será o de um PetShop.
+O cenário a ser descrito para o banco de dados é o de um PetShop.
 
-Nesse estabelecimento presta-se o serviço de banho, tosa e atendimento
+Nesse estabelecimento presta-se o serviço de banho, tosa e atendimento 
 veterinário, além de venda de produtos e animais.
 
-Essa loja possui um único estoque.
+Essa loja possui um único estoque centralizado em sua única loja.
 
-A entrada e saída de animais que fizeram algum tratamento deve ser 
+A entrada e saída de animais que fizeram algum tratamento (banho ou/e tosa) deve ser 
 controlada por meio de um sistema.
 
 Essa loja possui funcionários sendo de funções diferentes: Atendente,
