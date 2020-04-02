@@ -20,7 +20,7 @@ A loja realiza o controle de todos os animais que entram para algum atendimento 
 
 Uma vez que o atendimento é finalizado e o dono retira o animal da loja, isso também é registrado no sistema, incluindo a hora em que o animal deixou a loja.
 
-Complementando, sempre que um animal chega até a loja, é regostrado o horário do inicio do atendimento.
+Complementando, sempre que um animal chega até a loja, é registrado o horário do inicio do atendimento.
 
 Essa loja possui funcionários sendo de funções diferentes: Atendente,
 vendedor, veterinário e um encaregado por dar banho e tosa.
