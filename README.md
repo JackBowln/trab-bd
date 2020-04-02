@@ -11,7 +11,7 @@ e Henrique Moro Maciel
 
 O cenário a ser descrito para o banco de dados é o de um PetShop.
 
-Nesse estabelecimento presta-se o serviço de banho, tosa e atendimento 
+Nesse estabelecimento presta-se o serviço de banho, tosa e 
 veterinário, além de venda de produtos e animais.
 
 Essa loja possui um único estoque centralizado em sua única loja.
