@@ -16,8 +16,11 @@ veterinário, além de venda de produtos e animais.
 
 Essa loja possui um único estoque centralizado em sua única loja.
 
-A entrada e saída de animais que fizeram algum tratamento (banho ou/e tosa) deve ser 
-controlada por meio de um sistema.
+A loja realiza o controle de todos os animais que entram para algum atendimento (banho, tosa, atendimento veterinário e etc) , assim como registra quais foram os atendimentos prestados para cada animal.
+
+Uma vez que o atendimento é finalizado e o dono retira o animal da loja, isso também é registrado no sistema, incluindo a hora em que o animal deixou a loja.
+
+Complementando, sempre que um animal chega até a loja, é regostrado o horário do inicio do atendimento.
 
 Essa loja possui funcionários sendo de funções diferentes: Atendente,
 vendedor, veterinário e um encaregado por dar banho e tosa.
