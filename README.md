@@ -25,7 +25,6 @@ Complementando, sempre que um animal chega até a loja, é registrado o horário
 Essa loja possui funcionários sendo de funções diferentes: Atendente,
 vendedor, veterinário e um encaregado por dar banho e tosa.
 
-É necessário um controle de estoque.
-
+A loja possui um estoque único para produtos vendidos e consumidos na loja e animais. 
 Cada funcionário, exceto o atendente, recebe uma comissão. 
 E todos os clientes dão um nota para o geral (sendo isso loja, e cada funcionário avaliados e então feito uma média de 0 a 10).
