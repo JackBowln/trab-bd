@@ -1,10 +1,10 @@
 # trab-bd-CC1M
 
 ***Nome dos integrantes:***
-Vinicius Viola Dias,
+[Vinicius Viola Dias](https://github.com/JackBowln),
 Gabriel de Lemos Gomes,
 Marcelo de Castro Sant'Anna Filho,
-Caio Schmidt França Fonseca
+[Caio Schmidt França Fonseca](https://github.com/Arctic-Husky)
 e Henrique Moro Maciel
 
 ***Cenário:***
