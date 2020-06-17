@@ -18,7 +18,7 @@ Essa loja possui um único estoque centralizado em sua única loja.
 
 A loja realiza o controle de todos os animais que entram para algum atendimento (banho, tosa, atendimento veterinário e etc) , assim como registra quais foram os atendimentos prestados para cada animal.
 
-Uma vez que o atendimento é finalizado e o dono retira o animal da loja, isso também é registrado no sistema, incluindo a hora em que o animal deixou a loja.
+Uma vez que o atendimento é finalizado e o dono retira o animal da loja, isso também é registrado no sistema, assim como o nome do animal e o que foi feito.
 
 Complementando, sempre que um animal chega até a loja, é registrado o horário do inicio do atendimento.
 
